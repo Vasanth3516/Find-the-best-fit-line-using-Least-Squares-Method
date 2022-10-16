@@ -25,7 +25,7 @@ RegisterNumber: 212220220052
 */
 ```
 
-#import files
+import files
 import numpy as np
 import matplotlib.pyplot as plt
 
